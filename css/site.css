@@ -4,7 +4,8 @@
 }
 
 .headshot{
-	background-image: url("/img/headshot-casual.jpg");
+	/*TODO: fix when setting custom domain...*/
+	background-image: url("http://tjbarbour.github.io/blog/img/headshot-casual.jpg");
 	background-size: contain;
 	background-repeat: no-repeat;
 	float: left;
